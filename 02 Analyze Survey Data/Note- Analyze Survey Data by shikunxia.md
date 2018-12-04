@@ -1,17 +1,15 @@
 ## 项目要求
 
-1. At least one question/solution must make use of **multiple columns**.
+1. At least one question/solution must make use of **multiple columns** . 
 
-2. Student uses **means, medians, and modes **to generate insights.
+2. Student uses **means, medians, and modes** to generate insights.
 Please include in the written description a short insight related to each one.
+The median number of hours slept by survey respondents who were employed was 4 hours. The median number of hours slept by unemployed survey respondents was 12. It looks like those who are unemployed get much more sleep based on the median.
 
- The median number of hours slept by survey respondents who were employed was 4 hours. The median number of hours slept by unemployed survey respondents was 12. It looks like those who are unemployed get much more sleep based on the median.
+3. Stating the standard deviation and range is insufficient. Please include in the **written description a short insight**related to each one.
+For an example, please review the finished slide example in the classroom, which can be found in the Analyze Survey Data project lesson (concept 7: Finished Example Slide).
 
-3. Stating the standard deviation and range is insufficient. Please include in the **written description a short insight **related to each one.
-
- For an example, please review the finished slide example in the classroom, which can be found in the Analyze Survey Data project lesson (concept 7: Finished Example Slide).
-
-4. Student uses at least **two different plots to explore the data. These plots may include histograms,** box-plots, scatterplots, and bar charts to explore data and gain insights.
+4. Student uses at least **two different plots to explore the data. These plots may include histograms, box-plots, scatterplots, and bar charts to explore data and gain insights.**
 
  An **appropriate visual** is chosen to present the data. All labels are legible and the visual has appropriate axis labels.
 
