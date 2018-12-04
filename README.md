@@ -25,8 +25,7 @@ There is a collection and record of experience about [Bertelsmann Data Science S
   The phase 1 was end. I was waiting the result that decide me whether accepted in to phase 2 or not.
   
   From the phase 1, I relearned the knowledge about statistics and Python. Besides, I acuqired the skill about SQL.
-  
-  
+   
 5. 2018/8/25
 
    I got the message that I earned a full Nanodegree scholarship to Phase 2 of the Bertelsmann Data Science Scholarship!
@@ -56,7 +55,6 @@ There is a collection and record of experience about [Bertelsmann Data Science S
 
    I completed the project called Query a Digital Music Store Database. After my first submit, I got a modifition suggestion. The sugeestions are deliberate. I felt thankful for Udacity reviewer.
  
-
 10. 2018/12/3
 
    I completed the project called Build Data Dashboards .
@@ -73,11 +71,21 @@ There is a collection and record of experience about [Bertelsmann Data Science S
 2. [Syllabus-BusinessAnalystNanodegree](https://github.com/Echocruise/data-foundations/blob/master/Syllabus/Syllabus-BusinessAnalystNanodegree.pdf)
 3. [Syllabus-DataAnalystNanodegree](https://github.com/Echocruise/data-foundations/blob/master/Syllabus/Syllabus-DataAnalystNanodegree.pdf)
 
+## Learning Materials 
 
+### SQL 
 
+1. [Solve SQL | HackerRank](https://www.hackerrank.com/domains/sql?filters%5Bsubdomains%5D%5B%5D=select)
+2. [Problems \- LeetCode](https://leetcode.com/problemset/database/)
+3. [Video \| Introduction to SQL \| DB5 Courseware \| Stanford Lagunita](https://lagunita.stanford.edu/courses/DB/SQL/SelfPaced/courseware/ch-sql/seq-vid-introduction_to_sql/)
+4. [SQL必知必会 \(豆瓣\)](https://book.douban.com/subject/24250054/)
+5. [SELECT基础知识 \- SQLZOO](http://sqlzoo.net/wiki/SELECT_basics)
 
-
-
+## Data Visulation
+1. [Chart Dos and Don'ts \- Data Visualization \- LibGuides at Duke University](https://guides.library.duke.edu/datavis/topten)
+2. [Cole Nussbaumer Knaflic: "Storytelling with Data" \| Talks at Google \- YouTube](https://www.youtube.com/watch?v=8EMW7io4rSI)
+3. [How-to-Lie-with-Statistics](http://faculty.neu.edu.cn/cc/zhangyf/papers/How-to-Lie-with-Statistics.pdf)
+4. [The Visual Display of Quantitative Information \(豆瓣\)](https://book.douban.com/subject/1316642/)
 
 
 
