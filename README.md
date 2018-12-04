@@ -45,10 +45,19 @@ There is a collection and record of experience about [Bertelsmann Data Science S
 8. 2018/9/11   
  
  I completed the Intro​ project called ​Interpret​ ​a​ ​Data​ ​Visualization​ .
+ 
+ My answer :[​Interpret​ ​a​ ​Data​ ​Visualization​ by shikunxia ](https://github.com/Echocruise/data-foundations/blob/master/01%20%E2%80%8BInterpret%E2%80%8B%20%E2%80%8Ba%E2%80%8B%20%E2%80%8BData%E2%80%8B%20%E2%80%8BVisualization%E2%80%8B%20/%E2%80%8BInterpret%E2%80%8B%20%E2%80%8Ba%E2%80%8B%20%E2%80%8BData%E2%80%8B%20%E2%80%8BVisualization%E2%80%8B%20by%20shikunxia%20.md)
    
 9. 2018/10/10
 
  I completed the project called  Analyze Survey Data.
+ 
+ My materiel：
+ 
+ - [Note- Analyze Survey Data by shikunxia]()
+ - [PPT- Analyze Survey Data by shikunxia]()
+ - [Data- Analyze Survey Data by shikunxia]()
+ - [Project- Analyze Survey Data by shikunxia]()
 
 10. 2019/11/6
 
