@@ -1,9 +1,3 @@
-## Introduction
-
-There is a collection and record of experience about [Bertelsmann Data Science Scholarship Program \| Udacity](https://www.udacity.com/bertelsmann-data-scholarships).
-
-
-
 ## Tiemline
 ### 1. 2018/3/28
 
