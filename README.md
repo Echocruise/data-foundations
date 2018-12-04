@@ -1,4 +1,5 @@
 ## Introduction
+
 There is a collection and record of experience about [Bertelsmann Data Science Scholarship Program \| Udacity](https://www.udacity.com/bertelsmann-data-scholarships).
 
 
@@ -44,37 +45,33 @@ There is a collection and record of experience about [Bertelsmann Data Science S
    
 8. 2018/9/11   
 
- I completed the Intro​ project called ​Interpret​ ​a​ ​Data​ ​Visualization​ .
+   I completed the Intro​ project called ​Interpret​ ​a​ ​Data​ ​Visualization​ .
 
    
 8. 2018/10/10
 
- I completed the project called  Analyze Survey Data.
+   I completed the project called  Analyze Survey Data.
 
 9. 2019/11/6
 
- I completed the project called Query a Digital Music Store Database. After my first submit, I got a modifition suggestion. The sugeestions are deliberate. I felt thankful for Udacity reviewer.
+   I completed the project called Query a Digital Music Store Database. After my first submit, I got a modifition suggestion. The sugeestions are deliberate. I felt thankful for Udacity reviewer.
  
 
 10. 2018/12/3
 
- I completed the project called Build Data Dashboards .
+   I completed the project called Build Data Dashboards .
 
 11. 2018/12/4
 
- I graduated, I got the certificate.
+   I graduated, I got the certificate.
 
 ## Resource
 
 ### Syllabus
-1. Syllabus-DataFoundationsNanodegree
-2. Syllabus-BusinessAnalystNanodegree
-3. Syllabus-DataAnalystNanodegree
 
-
-
-
-
+1. [Syllabus-DataFoundationsNanodegree](https://github.com/Echocruise/data-foundations/blob/master/Syllabus/Syllabus-DataFoundationsNanodegree.pdf)
+2. [Syllabus-BusinessAnalystNanodegree](https://github.com/Echocruise/data-foundations/blob/master/Syllabus/Syllabus-BusinessAnalystNanodegree.pdf)
+3. [Syllabus-DataAnalystNanodegree](https://github.com/Echocruise/data-foundations/blob/master/Syllabus/Syllabus-DataAnalystNanodegree.pdf)
 
 
 
