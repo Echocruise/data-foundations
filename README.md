@@ -53,11 +53,10 @@ There is a collection and record of experience about [Bertelsmann Data Science S
  I completed the project called  Analyze Survey Data.
  
  My materiel：
- 
- - [Note- Analyze Survey Data by shikunxia](https://github.com/Echocruise/data-foundations/blob/master/02%20Analyze%20Survey%20Data/Note-%20Analyze%20Survey%20Data%20by%20shikunxia.md)
- - [PPT- Analyze Survey Data by shikunxia](https://github.com/Echocruise/data-foundations/blob/master/02%20Analyze%20Survey%20Data/PPT-%20Analyze%20Survey%20Data%20by%20shikunxia.pptx)
- - [Data- Analyze Survey Data by shikunxia](https://github.com/Echocruise/data-foundations/blob/master/02%20Analyze%20Survey%20Data/Data-%20Analyze%20Survey%20Data%20by%20shikunxia.xlsx)
- - [Project- Analyze Survey Data by shikunxia](https://github.com/Echocruise/data-foundations/blob/master/02%20Analyze%20Survey%20Data/Project-%20Analyze%20Survey%20Data%20by%20shikunxia.md)
+	 - [Note- Analyze Survey Data by shikunxia](https://github.com/Echocruise/data-foundations/blob/master/02%20Analyze%20Survey%20Data/Note-%20Analyze%20Survey%20Data%20by%20shikunxia.md)
+ 	- [PPT- Analyze Survey Data by shikunxia](https://github.com/Echocruise/data-foundations/blob/master/02%20Analyze%20Survey%20Data/PPT-%20Analyze%20Survey%20Data%20by%20shikunxia.pptx)
+ 	- [Data- Analyze Survey Data by shikunxia](https://github.com/Echocruise/data-foundations/blob/master/02%20Analyze%20Survey%20Data/Data-%20Analyze%20Survey%20Data%20by%20shikunxia.xlsx)
+ 	- [Project- Analyze Survey Data by shikunxia](https://github.com/Echocruise/data-foundations/blob/master/02%20Analyze%20Survey%20Data/Project-%20Analyze%20Survey%20Data%20by%20shikunxia.md)
 
 10. 2019/11/6
 
@@ -65,14 +64,17 @@ There is a collection and record of experience about [Bertelsmann Data Science S
  The sugeestions are deliberate. I felt thankful for Udacity reviewer.
  
  My materiel：
- - [Code- Query a Digital Music Store Database by shikunxia ]()
- - [Data- Query a Digital Music Store Database by shikunxia ]()
- - [Notes-Query a Digital Music Store Database by shikunxia ]()
-- [PPT- Query a Digital Music Store Database by shikunxia ]() 
+ 	- [Code- Query a Digital Music Store Database by shikunxia ](https://github.com/Echocruise/data-foundations/blob/master/03%20Query%20a%20Digital%20Music%20Store%20Database/Code-%20Query%20a%20Digital%20Music%20Store%20Database%20by%20shikunxia%20.txt)
+ 	- [Data- Query a Digital Music Store Database by shikunxia ](https://github.com/Echocruise/data-foundations/blob/master/03%20Query%20a%20Digital%20Music%20Store%20Database/Data-%20Query%20a%20Digital%20Music%20Store%20Database%20by%20shikunxia%20.xlsx)
+ 	- [Notes-Query a Digital Music Store Database by shikunxia ](https://github.com/Echocruise/data-foundations/blob/master/03%20Query%20a%20Digital%20Music%20Store%20Database/Notes-Query%20a%20Digital%20Music%20Store%20Database%20by%20shikunxia%20.md)
+	- [PPT- Query a Digital Music Store Database by shikunxia ](https://github.com/Echocruise/data-foundations/blob/master/03%20Query%20a%20Digital%20Music%20Store%20Database/PPT-%20Query%20a%20Digital%20Music%20Store%20Database%20by%20shikunxia%20.pptx) 
 
 11. 2018/12/3
 
  I completed the project called Build Data Dashboards .
+ My materials:
+ 	- [Notes-Build Data Dashboards by shikunxia ]()
+ 	- [Project-Build Data Dashboards  about Youtube with by shikunxia ]()
 
 12. 2018/12/4
 
