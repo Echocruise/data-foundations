@@ -54,16 +54,22 @@ There is a collection and record of experience about [Bertelsmann Data Science S
  
  My materiel：
  
- - [Note- Analyze Survey Data by shikunxia]()
- - [PPT- Analyze Survey Data by shikunxia]()
- - [Data- Analyze Survey Data by shikunxia]()
- - [Project- Analyze Survey Data by shikunxia]()
+ - [Note- Analyze Survey Data by shikunxia](https://github.com/Echocruise/data-foundations/blob/master/02%20Analyze%20Survey%20Data/Note-%20Analyze%20Survey%20Data%20by%20shikunxia.md)
+ - [PPT- Analyze Survey Data by shikunxia](https://github.com/Echocruise/data-foundations/blob/master/02%20Analyze%20Survey%20Data/PPT-%20Analyze%20Survey%20Data%20by%20shikunxia.pptx)
+ - [Data- Analyze Survey Data by shikunxia](https://github.com/Echocruise/data-foundations/blob/master/02%20Analyze%20Survey%20Data/Data-%20Analyze%20Survey%20Data%20by%20shikunxia.xlsx)
+ - [Project- Analyze Survey Data by shikunxia](https://github.com/Echocruise/data-foundations/blob/master/02%20Analyze%20Survey%20Data/Project-%20Analyze%20Survey%20Data%20by%20shikunxia.md)
 
 10. 2019/11/6
 
  I completed the project called Query a Digital Music Store Database. After my first submit, I got a modifition suggestion.   
  The sugeestions are deliberate. I felt thankful for Udacity reviewer.
  
+ My materiel：
+ - [Code- Query a Digital Music Store Database by shikunxia ]()
+ - [Data- Query a Digital Music Store Database by shikunxia ]()
+ - [Notes-Query a Digital Music Store Database by shikunxia ]()
+- [PPT- Query a Digital Music Store Database by shikunxia ]() 
+
 11. 2018/12/3
 
  I completed the project called Build Data Dashboards .

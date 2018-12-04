@@ -1,0 +1,59 @@
+Question 1 : Which artist has released the most number of albums?
+
+SELECT
+  Artist.Name Artist,
+  COUNT(Album.Title) NumAlbums
+FROM Album
+JOIN Artist
+  ON Artist.ArtistId = Album.ArtistId
+GROUP BY Artist.ArtistId
+ORDER BY NumAlbums DESC;
+
+
+Question 2 : Which artist has selled the most number of albums?
+
+SELECT
+  Artist.Name Artist,
+  COUNT(DISTINCT Album.AlbumId) NumAlbums
+FROM InvoiceLine
+JOIN Track
+  ON Track.TrackId = InvoiceLine.TrackId
+JOIN Album
+  ON Track.AlbumId = Album.AlbumId
+JOIN Artist
+  ON Artist.ArtistId = Album.ArtistId
+GROUP BY Artist.ID
+ORDER BY NumAlbums DESC;
+
+
+
+Question3: Which style of album is most popular with consumers?
+
+SELECT
+  Genre.Name Genre,
+  SUM(InvoiceLine.Quantity) NumTracs
+FROM InvoiceLine
+JOIN Track
+  ON Track.TrackId = InvoiceLine.TrackId
+JOIN Genre
+  ON Genre.GenreId = Track.GenreId
+GROUP BY Genre.Name
+ORDER BY NumTracs DESC;
+
+
+Question 4: Who is the most popular rock artist?
+SELECT
+  Artist.Name Artist,
+  COUNT(DISTINCT Album.AlbumId) NumAlbums
+FROM InvoiceLine
+JOIN Track
+  ON Track.TrackId = InvoiceLine.TrackId
+JOIN Album
+  ON Track.AlbumId = Album.AlbumId
+JOIN Artist
+  ON Artist.ArtistId = Album.ArtistId
+JOIN Genre
+  ON Genre.GenreId = Track.GenreId
+WHERE Genre.Name = "Rock"
+GROUP BY Artist.ID
+ORDER BY NumAlbums DESC;
