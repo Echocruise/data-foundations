@@ -69,7 +69,8 @@ My materials:
 ### 12. 2018/12/4
 
 I graduated, I got the certificate.
- ![certificate](https://ws1.sinaimg.cn/large/006tNbRwly1fxv25udxpmj317i0u00xx.jpg)
+![Certificate](https://ws4.sinaimg.cn/large/006tNbRwly1fxw18uqvm9j318y0u0q8f.jpg)
+
 
 ## Resource
 
